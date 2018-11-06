@@ -1,4 +1,12 @@
 # WowDB_zhCN
+
+## cjlaaa的优化内容
+1. 适配TrinityCore最新版本(2018.11)
+2. 优化部分换行格式问题
+3. 添加main.sql,在mysql控制台直接运行即可导入
+
+
+## 原项目说明
 魔兽世界 3.3.5 的数据库汉化sql，支持 TrinityCore 的数据库翻译。  
 汉化内容来自网络，我只是对sql脚本做了 TrinityCore 的适配。
 暂时没找到更可靠的汉化文件，凑合着用吧。  
