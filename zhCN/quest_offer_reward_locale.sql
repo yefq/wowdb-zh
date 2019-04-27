@@ -3,7 +3,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='2', `Locale`='zhCN', `RewardT
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='5', `Locale`='zhCN', `RewardText`='你想要黑螃蟹蛋糕?也许我可以做一点给你……';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='6', `Locale`='zhCN', `RewardText`='哈，你干掉他了!你为艾尔文森林做了一件好事，当然罗，你也获得了赏金。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7', `Locale`='zhCN', `RewardText`='干得好，$N那些狗头人不过是些小贼和懦夫，不过如果他们数量太多的话，还是会对我们构成威胁。而且，暴风城要面临的威胁已经足够多了。$B$B我为你成功的清剿行动表示我的敬意。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='8', `Locale`='zhCN', `RewardText`='哦?有我的信?真是太好了!我一直在期待丧钟镇里亲爱的老母亲音信，她是那么的崇高与圣洁……我想知道她近况如何。$B$B什么?你觉得太开心?你不相信这是真的?$B$B啊，那你快滚吧，这封信是谁写给我的，跟你无关。走吧!快滚!$B$B等你有钱的时候再来吧!没出息的东西!$B$B用不了多久啊，你一定又经过什么冒险啊!什么类似愚蠢的事情, `Locale`='zhCN',  想回来休息。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='8', `Locale`='zhCN', `RewardText`='哦?有我的信?真是太好了!我一直在期待丧钟镇里亲爱的老母亲音信，她是那么的崇高与圣洁……我想知道她近况如何。$B$B什么?你觉得太开心?你不相信这是真的?$B$B啊，那你快滚吧，这封信是谁写给我的，跟你无关。走吧!快滚!$B$B等你有钱的时候再来吧!没出息的东西!$B$B用不了多久啊，你一定又经过什么冒险啊!什么类似愚蠢的事情，想回来休息。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9', `Locale`='zhCN', `RewardText`='干得漂亮，哥们。你为自己挣到了不菲的酬劳呀。谁知道呢，或许有一天西部荒野又会富饶如初吧。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10', `Locale`='zhCN', `RewardText`='年轻的谢申克是个好哥林布。希望他没有白白牺牲，他的勘探设备中应该记录了一些有用的东西。$B$B看来我们一定要着手处理这些虫子了。它们是如此的贪婪和狡猾，从现在的情况来看，它们可能是被某个更强大的力量所控制着!如果真是这样，不仅是加基森，整个沙漠都要遭殃了!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='11', `Locale`='zhCN', `RewardText`='我知道你肯定忙了好一阵子!谢谢你，$N。';
@@ -12,7 +12,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='13', `Locale`='zhCN', `Reward
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='14', `Locale`='zhCN', `RewardText`='在离开洛丹伦那片受污染的土地之后，我回到了这里，回到了我的故乡，被迫要面对一种这样严酷的形势。但西部荒野仍然还有希望，你在战斗中的英勇与无畏告诉我，你正背负着无上的荣光与我们并肩作战，帮助我们完成伟大的事业。人民军中能有你这样的$C，让我感到无比自豪。愿圣光永远照耀着你。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='15', `Locale`='zhCN', `RewardText`='我真不想听到这些占据了我们圹坑狗头人的事情?真糟糕!他们是干不出什么好事来的。来，这是你的酬劳。另外，补给完毕以后再来找我一下。我希望你可以再去矿坑一次……$B';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='16', `Locale`='zhCN', `RewardText`='谢谢，$N!如果你还想再交换的话就回来找我吧 !';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='17', `Locale`='zhCN', `RewardText`='做得好，$N，你再一次证明了自己的价值!研究这种蘑菇肯定会非常有趣!$B$B根据我的承诺, `Locale`='zhCN',  来尝尝我收藏多年的陈年好酒吧!$B$B如果你是个有经验的炼金师，那我们还可以进行其它的合作。不管怎么样，我要再次感谢你对我的帮助。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='17', `Locale`='zhCN', `RewardText`='做得好，$N，你再一次证明了自己的价值!研究这种蘑菇肯定会非常有趣!$B$B根据我的承诺，来尝尝我收藏多年的陈年好酒吧!$B$B如果你是个有经验的炼金师，那我们还可以进行其它的合作。不管怎么样，我要再次感谢你对我的帮助。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='18', `Locale`='zhCN', `RewardText`='你带回着头巾回来了，干得好。暴风城军方感谢你的帮助。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='19', `Locale`='zhCN', `RewardText`='萨瑞尔祖恩是个卑鄙狡猾的兽人。你做得很好―我敢说你一定花了不少工夫才把他撂倒的。这是你的酬劳，$N。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='20', `Locale`='zhCN', `RewardText`='这下兽人的数量少太多了，我们也就不必太担心了，谢谢你。';
@@ -801,7 +801,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='807', `Locale`='zhCN', `Rewar
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='808', `Locale`='zhCN', `RewardText`='谢谢你，$N。你拯救了明希纳，你解放了他的灵魂!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='809', `Locale`='zhCN', `RewardText`='尼尔鲁要毁了恶魔之种?奇怪……$B$B好吧，既然他想要让恶魔之种消失，那我就告诉你该怎么做。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='810', `Locale`='zhCN', `RewardText`='你已经证明希望能够掌握自己命运的意愿。我希望你能继续保持这种意志力。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='811', `Locale`='zhCN', `RewardText`='$C, `Locale`='zhCN', 你听从了我的教导，吸取了蝎子的优点。$B$B我对你的成绩十分满意，拿着这个。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='811', `Locale`='zhCN', `RewardText`='$C，你听从了我的教导，吸取了蝎子的优点。$B$B我对你的成绩十分满意，拿着这个。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='812', `Locale`='zhCN', `RewardText`='$N，谢谢你救了我一命。$B$B请收下这个，即使它一文不值，我也希望它能对你有所帮助。看样子我近期应该是用不上它了。在我重新证明自己之前，考格汉只会让我去做些例行的公事，比如杀杀野猪、找找蝎尾什么的……<叹息>';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='813', `Locale`='zhCN', `RewardText`='这是解毒剂，$N。赶快给林纳格送去，路上要小心点。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='814', `Locale`='zhCN', `RewardText`='你回来得正是时候，$N。$B$B把肉放下，然后从我眼前消失―我还有很多事要忙呢。$B$B拿着这个，你可别抱怨我没把你喂饱啊!';
@@ -883,7 +883,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='889', `Locale`='zhCN', `Rewar
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='890', `Locale`='zhCN', `RewardText`='啊，是加兹鲁维派你来的?稍等一下，让我看看我的出货单，确定我有没有把加兹鲁维的货物发错地方。$B$B他一定正等着崔斯里克的靴子……';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='891', `Locale`='zhCN', `RewardText`='干得漂亮，$N。那些混帐东西罪有应得。既然我的船和我的水手们已经不在了，那么就让这些纳迦的死给我带来一些安慰吧。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='892', `Locale`='zhCN', `RewardText`='真是走背运!我想一定是那些海盗……迪兹维格是个不错的家伙，我想他还不至于骗我。毕竟他是吃这碗饭的。$B$B看来我要必须要想办法拿回我的货物了，$N。你说呢?$B';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='893', `Locale`='zhCN', `RewardText`='精湛……真是精湛的武器。$B$B野猪人的技术比我想象中的要先进太多了。$B$B$C, `Locale`='zhCN',  拿着这个，然后请自便。我现在要赶快仔细研究研究这些武器。我们也许低估了这些敌人，那将是一个我们无法承担的致命错误。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='893', `Locale`='zhCN', `RewardText`='精湛……真是精湛的武器。$B$B野猪人的技术比我想象中的要先进太多了。$B$B$C，拿着这个，然后请自便。我现在要赶快仔细研究研究这些武器。我们也许低估了这些敌人，那将是一个我们无法承担的致命错误。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='894', `Locale`='zhCN', `RewardText`='控制台的表面凌乱地布满了众多的按钮、控制杆和不断闪烁的指示灯。一部小型仪表显示这台设备正处于最佳的工作状态下，一至三号控制阀门已经打开。在控制面板的右下方有一个插钥匙的小孔。$B';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='895', `Locale`='zhCN', `RewardText`='啊，原来是这件事。你知道，我曾经在公海上看见过破浪号。那是一艘可怕的船，或者说是小艇……那些水手太特别了!$B$B不管怎么说，她划过水面的景象真是漂亮。我很高兴得知她那声名狼藉的船长不会再骚扰我的船只了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='896', `Locale`='zhCN', `RewardText`='$N，看看这块大宝石!我们就要成富翁了!根据我对幽坑城的各种宝石的估价，我来算算你应该分到多少，怎么样?$B$B让我想想……我觉得这个价格应该没什么问题。$N，很高兴与你做生意。';
@@ -907,7 +907,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='913', `Locale`='zhCN', `Rewar
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='914', `Locale`='zhCN', `RewardText`='$N，你成功了!你干掉了尖牙德鲁伊的四首领，我的梦中再也不会出现他们邪恶的面孔，而你也把贫瘠之地从厄运中拯救了出来。$B$B谢谢你，$N。我代表雷霆崖的德鲁伊，也代表贫瘠之地，对你表示衷心的谢意。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='915', `Locale`='zhCN', `RewardText`='嗯!我喜欢草莓冰淇淋!提古勒和弗洛尔的草莓冰淇淋是最棒的!$B$B非常感谢你，$N―这是我所得到的最好的礼物!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='916', `Locale`='zhCN', `RewardText`='感谢你，$N。我一回到达纳苏斯就会开始比较这些毒囊中的毒液与其他蜘蛛毒囊中的毒液。我坚信这其中的奥妙肯定与我们新的世界之树最近的成长有关。$B';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='917', `Locale`='zhCN', `RewardText`='啊，非常好。我要把这枚蜘蛛卵和先前收集到的毒液运送到达纳苏斯，等我在这里的研究一结束后，我也要回去那里了。我期待着从这些材料中找出一些震撼性的资料, `Locale`='zhCN', ';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='917', `Locale`='zhCN', `RewardText`='啊，非常好。我要把这枚蜘蛛卵和先前收集到的毒液运送到达纳苏斯，等我在这里的研究一结束后，我也要回去那里了。我期待着从这些材料中找出一些震撼性的资料。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='918', `Locale`='zhCN', `RewardText`='你弄到种子啦，太好了!$B$B我会把它们种在我已经准备好了的特殊土壤中，我相信这些种子将会发芽并成长成为性格温顺的树精。也许你很快就能看到结果啦!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='919', `Locale`='zhCN', `RewardText`='这么多!恐怕它们正在以惊人的速度蔓延，我希望我能找到它们被污染的真正原因。$B$B感谢你的帮助，$N。这片土地因你的努力而免受更多的污染。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='920', `Locale`='zhCN', `RewardText`='啊，$N。我正希望你能快点来我这里报到呢，这里有个重要的任务要托付给你。';
@@ -1049,7 +1049,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='1055', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1056', `Locale`='zhCN', `RewardText`='啊，你终于来了。法德瑞斯一定是听从了森林之魂的指引……';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1057', `Locale`='zhCN', `RewardText`='现在血怒氏族算是遭到了毁灭性的打击，我们也终于可以开始工作了……';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1058', `Locale`='zhCN', `RewardText`='哈哈，你说这帮小妖精将会有多开心啊!靠这个特殊的东西，我们就可以让他们以为自己还在家里呢。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='1059', `Locale`='zhCN', `RewardText`='守护者奥巴格姆在这种紧急的情况下派你来找我，这确实是个明智的选择。$B$B我们要尽快为焦炭谷做点什么, `Locale`='zhCN', 不然就要来不及了。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='1059', `Locale`='zhCN', `RewardText`='守护者奥巴格姆在这种紧急的情况下派你来找我，这确实是个明智的选择。$B$B我们要尽快为焦炭谷做点什么，不然就要来不及了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1060', `Locale`='zhCN', `RewardText`='啊，达索克的亲笔信!这么多年都没有收到他的来信了。$B$B如此说来，塞瑞娜·血羽也死了?这真是个好消息，我还记得我的朋友洛克汉和那个疯疯癫癫的摩克纳萨尔跑去杀她姐姐时的情景。啊，这似乎让我又回到了年轻的时候，我像你一样年轻的时候啊，那可真是……$B';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1061', `Locale`='zhCN', `RewardText`='啊，来了一个$C，非常好。我们正好非常需要你的帮助来对付这群盗掠者!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1062', `Locale`='zhCN', `RewardText`='真是大获全胜，$N。$B$B我们可能最终还是会需要牛头人长老们的智慧来安抚石爪山中的精灵，但……$B$B除掉风险投资公司的那些人的确是个好的开始。';
@@ -1520,8 +1520,8 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='1785', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1786', `Locale`='zhCN', `RewardText`='谢谢你，$G兄弟:姐妹;。看到你刚才使用了生命符记，我想是不是达索瑞恩和杰生派你来的?$B$B我和杰生试图探听迪菲亚盗贼的计画时，和迪菲亚法师打了起来。我成功地支撑了一会儿，让杰生得以逃脱。但最后我还是被他们的魔法所打败。$B$B不过你又拯救了我!生命符记并不是什么人都能用的，$N。你持有它，说明了你拥有足以使用生命符记的信念。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1787', `Locale`='zhCN', `RewardText`='干得好!你救了亨兹的命。圣光与你同在，$N!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1788', `Locale`='zhCN', `RewardText`='你好，我们又见面了，$N。你对圣洁之书的研究进展如何?$B$B那么你应该准备好接受考验了。我们的城市和国家到处都有等着我们去完成的任务，给予他人同情和理解;援助需要帮助的人;击杀凶恶的生物。$B$B只要证明你可以秉持耐心去帮助别人―特别是那些不幸的人，你就能证明自己是圣光的侍从，正直心灵的表率。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='1789', `Locale`='zhCN', `RewardText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值, `Locale`='zhCN', 在今后的日子里，你还会不断遇到挫折。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='1790', `Locale`='zhCN', `RewardText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值, `Locale`='zhCN', 在今后的日子里，你还会不断遇到挫折。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='1789', `Locale`='zhCN', `RewardText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值，在今后的日子里，你还会不断遇到挫折。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='1790', `Locale`='zhCN', `RewardText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值，在今后的日子里，你还会不断遇到挫折。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1791', `Locale`='zhCN', `RewardText`='你是从很远的地方来的吧，年轻的战士。我在你的眼里看到了火焰，你正在寻求一件威力巨大的武器，对吗?$B$B我能帮你完成你的梦想，你也能帮我完成我的梦想。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1792', `Locale`='zhCN', `RewardText`='现在有了旋风之心，我就可以把蕴含在其中的力量注入到武器里。$B$B选择一件你中意的武器吧，$N，它将获得塞克隆尼亚的力量。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='1793', `Locale`='zhCN', `RewardText`='圣光与你同在，$N。不过在你将来面对更加危险的境况时，了解自身所具备的力量就显得非常重要了。当魔鬼、恶龙和其它邪恶在我们的土地上肆虐时，你的勇气将接受真正的考验。你有足够强大吗?$B$B不管在什么情况下，勇气对于圣骑士来说，都是和对圣光的信仰一样重要的精神，它是你铜墙铁壁的护盾，你无坚不摧的武器。在圣光大教堂中修行的时候，你还将学习圣骑士的另外两条标准，时刻铭记要保护弱者，保持信念。';
@@ -2040,7 +2040,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='3565', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3566', `Locale`='zhCN', `RewardText`='<索里奥斯的脸变得惨白。>$B$B这……这不可能。我的兄弟?这一切都是他干的?$B$B<索里奥斯的脸孔因愤怒而扭曲了。>$B$B他背叛了我，背叛了铁炉堡!看来上古诸神在这些地方仍然有着巨大的影响力，令我害怕的是，如果我的兄弟―那个曾经高贵可敬的矮人，也会如此轻易地投靠拉格纳罗斯，那就没有人是安全可靠的了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3567', `Locale`='zhCN', `RewardText`='你想要站在双塔山的最高处俯瞰世界吗?我可以送你到那儿去，$C。$B$B但是，你得自己想办法下来。我这是单程服务。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3568', `Locale`='zhCN', `RewardText`='棒极了。你在她死掉之前回来了，很好，很好。$B$B我们现在就开始吧。$B$B我一直在研究她的症状，情况相当不妙。不过令我惊讶的是她还活着。她呕吐过三四次，把这儿搞得一塌糊涂……味道真不好闻。$B$B给我一些时间，让我拿我们的……朋友……做个试验。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='3569', `Locale`='zhCN', `RewardText`='药剂师科雷对我非常友善……尽管这令我有些不安。如果他说这东西能帮我，那么我别无选择, `Locale`='zhCN', 我没有时间去寻找其它的解决方法了。我已经和牧师及萨满都谈过了，他们都无能为力。$B$B愿大地之母守护我的灵魂。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='3569', `Locale`='zhCN', `RewardText`='药剂师科雷对我非常友善……尽管这令我有些不安。如果他说这东西能帮我，那么我别无选择，我没有时间去寻找其它的解决方法了。我已经和牧师及萨满都谈过了，他们都无能为力。$B$B愿大地之母守护我的灵魂。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3570', `Locale`='zhCN', `RewardText`='我从没有想过这瓶药剂可以如此快的发挥效果。谢谢你，$N。我会马上开始研究这些剩下的样品。我敢说它们不久之后就可供希尔瓦娜斯女士王和被遗忘者使用了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3581', `Locale`='zhCN', `RewardText`='';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='3601', `Locale`='zhCN', `RewardText`='哈哈!你给他们好看了，是不是?$B$B太好了!这给那些敢背叛伙伴的血精灵一个教训……特别是背叛像我这样忠诚的哥布尔商人!去死吧，血精灵……$B$B好吧，我唯一能做的就是为你所花费的时间支付报酬……如同我所承诺的。$B$B拿去吧……这应该会对你有所帮助。';
@@ -3285,8 +3285,8 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='7729', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7730', `Locale`='zhCN', `RewardText`='干得好，$C。虽然祖卡什虫类现在还没有对我们发动全面的进攻，但你至少为我们赢得时间来策划妥当的应对方法。$B$B我一定会好好分析这些虫壳的，我们必须全方位地了解它们，然后再想办法解决这个比我们预想中的还要大得多的麻烦。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7731', `Locale`='zhCN', `RewardText`='太好了，$C……你干得太出色了!如果毒刺鞭笞者确实是那些虫子里面最强的一个，那么对于它的研究将会对现在的局势非常有帮助。现在我的责任就是在确保我们安全的同时想出利用它的办法。$B$B请收下这些钱币作为整个营地对你的感谢，$N。干得好。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7732', `Locale`='zhCN', `RewardText`='啊，我正等着这个呢。这些你面对的生物……它们是部落一直以来都忽略的威胁。哈杜肯把这份文件―还有你―送到我这里来，这是个很明智的决定。$B$B祖卡什虫类是属于异种虫类的一支，有些人认为它们是没有智慧的虫子，但是我可以向你保证―它们对我们而言，远远比联盟更有威胁。$B$B如果你愿意的话，我可以协助你开始铲除这个威胁的行动。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='7733', `Locale`='zhCN', `RewardText`='太好了，太好了!这些绝对能派上大用场―只要经过适当的工艺处理, `Locale`='zhCN', 它们就会变得更加厚实。$B$B再次感谢你的帮助，$N。拿着这个―这是我的最新产品。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='7734', `Locale`='zhCN', `RewardText`='太好了，太好了!这些绝对能派上大用场―只要经过适当的工艺处理, `Locale`='zhCN', 它们就会变得更加厚实。$B$B再次感谢你的帮助，$N。拿着这个―这是我的最新产品。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='7733', `Locale`='zhCN', `RewardText`='太好了，太好了!这些绝对能派上大用场―只要经过适当的工艺处理，它们就会变得更加厚实。$B$B再次感谢你的帮助，$N。拿着这个―这是我的最新产品。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='7734', `Locale`='zhCN', `RewardText`='太好了，太好了!这些绝对能派上大用场―只要经过适当的工艺处理，它们就会变得更加厚实。$B$B再次感谢你的帮助，$N。拿着这个―这是我的最新产品。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7735', `Locale`='zhCN', `RewardText`='太不可思议了!你也许找到了所有雪人的爷爷的毛皮!$B$B我肯定为此付钱的。一般来说，我不会为了一张毛皮付出那么多的钱，但是我可以用这张皮来做一些特别的东西。感谢你把这个给我拿来，$N!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7736', `Locale`='zhCN', `RewardText`='炽热助熔剂的数量总是不够。继续收集吧……除非我叫你停止。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='7737', `Locale`='zhCN', `RewardText`='继续拿残油来!';
@@ -4196,7 +4196,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='8858', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8859', `Locale`='zhCN', `RewardText`='太棒了，时间刚刚好!干得好，$G小伙子:姑娘;!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8860', `Locale`='zhCN', `RewardText`='喔，我的熏木补给品!太好了!我很需要这些东西来喂饱来参加城里参加庆典的人们!$B$B谢谢你，$N。请收下这个当作报酬，还有，别忘了畅饮几杯，并和外面的狂欢者一起跳个舞吧!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8861', `Locale`='zhCN', `RewardText`='喔，非常好!这些补给品可以用来喂饱来这里庆祝新年的民众!$B$B感谢你，$N。我欠你一个人情。请收下这一点钱吧吧…别忘了 - 尽情地饮用外面的酒，和大家一起好好庆祝一番!';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='8862', `Locale`='zhCN', `RewardText`='太好了－我收下这些先祖硬币。请带着艾露恩的蜡烛以及我的祝福。还有，请收下赠送的烟火。$B$B祝你新年快乐，充满喜悦，$N。$B$B如果你选择挑战年兽及他的爪牙, `Locale`='zhCN', 你就会发现艾露恩的蜡烛非常有用……';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='8862', `Locale`='zhCN', `RewardText`='太好了－我收下这些先祖硬币。请带着艾露恩的蜡烛以及我的祝福。还有，请收下赠送的烟火。$B$B祝你新年快乐，充满喜悦，$N。$B$B如果你选择挑战年兽及他的爪牙，你就会发现艾露恩的蜡烛非常有用……';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8863', `Locale`='zhCN', `RewardText`='太棒了－';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8864', `Locale`='zhCN', `RewardText`='很好 – 我接受这些先祖硬币。这件衣服现在属于你了，祝你好运。另外，我免费赠送这些烟火。$B$B如果你有更多的先祖硬币要交易，就再来和我谈谈。谢谢你，愿你有个愉快的新年。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='8865', `Locale`='zhCN', `RewardText`='很好 – 我接受这些先祖硬币。请收下我的祝福。另外，我免费赠送这些烟火。$B$B如果你有更多的先祖硬币要交易，就再来和我谈谈。我在整个新年都会提供不同的物品。';
@@ -5318,8 +5318,8 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='9980', `Locale`='zhCN', `Rewa
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9981', `Locale`='zhCN', `RewardText`='我必须承认，$N，我很惊讶。当我们发现杜葛尔被拘禁在迷雾撒拉斯时，我开始担心我们是否会永远失去他的音讯。$B$B这是我第一次这么高兴我是错的。$B$B你可以相信我们此后会对阿拉卡活动密切观察。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9982', `Locale`='zhCN', `RewardText`='我的出现吓到你了吗?你知道我是谁吗?';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9983', `Locale`='zhCN', `RewardText`='我的出现吓到你了吗?你知道我是谁吗?';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='9984', `Locale`='zhCN', `RewardText`='大部分我能看懂，足以明白主要写的什么了。且不论谁下的命令——他夸奖了卢埃加的“成果”并且鼓励他继续审讯他的”客人“。$B$B同时，它写道, `Locale`='zhCN', ”斯克提斯已按计划正在部署中。“';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='9985', `Locale`='zhCN', `RewardText`='大部分我能看懂，足以明白主要写的什么了。且不论谁下的命令——他夸奖了卢埃加的“成果”并且鼓励他继续审讯他的”客人“。$B$B同时，它写道, `Locale`='zhCN', ”斯克提斯已按计划正在部署中。“';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='9984', `Locale`='zhCN', `RewardText`='大部分我能看懂，足以明白主要写的什么了。且不论谁下的命令——他夸奖了卢埃加的“成果”并且鼓励他继续审讯他的”客人“。$B$B同时，它写道，“斯克提斯已按计划正在部署中。”';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='9985', `Locale`='zhCN', `RewardText`='大部分我能看懂，足以明白主要写的什么了。且不论谁下的命令——他夸奖了卢埃加的“成果”并且鼓励他继续审讯他的”客人“。$B$B同时，它写道，“斯克提斯已按计划正在部署中。”';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9986', `Locale`='zhCN', `RewardText`='做的好，$N。我们不用再担心阿拉卡什么时候又会引诱我们的商人和信差了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9987', `Locale`='zhCN', `RewardText`='做的好，$N。我们不用再担心阿拉卡什么时候又会引诱我们的商人和信差了。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='9988', `Locale`='zhCN', `RewardText`='这些东西会很有用，虽然我知道那些人很快会开始抱怨缺少变化。圣光禁止它们应该看起来都一样!$B$B<罗斯勒斯假装害怕的喘着气。>$B$B喔，不，我们不能这样!';
@@ -5928,7 +5928,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='10590', `Locale`='zhCN', `Rew
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10591', `Locale`='zhCN', `RewardText`='恭喜。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10592', `Locale`='zhCN', `RewardText`='这些石头带着一个我不想记起的污点，但我也无法忘记。你把这些带来给我是在考验我的耐心。$B$B不过，很清楚的，你和我寻求一样的复仇，我会帮助你并给你指示。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10593', `Locale`='zhCN', `RewardText`='女妖之王将你引导的很好。这确切是我需要去结合碎片的东西。$B$B<当藤蔓穿过碎片交织时，米哈尔注视着并把他们捆在一起。>$B$B那里!天灾毒物，我将召唤它。当你使用它时，谨慎小心，因为它违反它的意愿为你效劳。';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='10594', `Locale`='zhCN', `RewardText`='哇，这真是太棒了!我实在搞不清楚……就好像这些水晶是有生命似的。$B$B我在想这些水晶跟虚空龙之间有没有某种特殊的关连性?$B$B谢谢你, `Locale`='zhCN', 谢谢!你一定要收下我的一点感谢之意，一些我的零件和完成品珍藏。$B$B他们之中一定有一个适合你。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='10594', `Locale`='zhCN', `RewardText`='哇，这真是太棒了!我实在搞不清楚……就好像这些水晶是有生命似的。$B$B我在想这些水晶跟虚空龙之间有没有某种特殊的关连性?$B$B谢谢你，谢谢!你一定要收下我的一点感谢之意，一些我的零件和完成品珍藏。$B$B他们之中一定有一个适合你。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10595', `Locale`='zhCN', `RewardText`='你可以在这场大屠杀当中存活下来让我印象深刻。你可能就是我们要执行危险任务的最佳人选。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10596', `Locale`='zhCN', `RewardText`='<血卫士高莫克听着你的报告，他的警戒心随着你的每一句话而提高。>$B$B你说他们将加速轰炸攻击的准备是什么意思?我们不能允许这样的事情发生。在影月村还没有被完全摧毁之前回去那边解决这个问题!';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='10597', `Locale`='zhCN', `RewardText`='<高莫克将能量核心插入外罩并将它密封。>$B$B这应该可以了。当爆炸发生的时候我可不想在堡垒里。';
@@ -9232,7 +9232,7 @@ REPLACE INTO `quest_offer_reward_locale` SET `ID`='24507', `Locale`='zhCN', `Rew
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24508', `Locale`='zhCN', `RewardText`='';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24509', `Locale`='zhCN', `RewardText`='';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24510', `Locale`='zhCN', `RewardText`='';
-REPLACE INTO `quest_offer_reward_locale` SET `ID`='24511', `Locale`='zhCN', `RewardText`='正是时候, `Locale`='zhCN',  $c!$B$B萨隆矿坑就在前方，如果哨探的情报准确，穿过它就是映像大厅了。正是那里，阿尔萨斯部署了他的守卫；也正是那里，我们希望能找到关于他的弱点的线索……我们要复仇，这迟来的复仇。';
+REPLACE INTO `quest_offer_reward_locale` SET `ID`='24511', `Locale`='zhCN', `RewardText`='正是时候，$c!$B$B萨隆矿坑就在前方，如果哨探的情报准确，穿过它就是映像大厅了。正是那里，阿尔萨斯部署了他的守卫；也正是那里，我们希望能找到关于他的弱点的线索……我们要复仇，这迟来的复仇。';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24522', `Locale`='zhCN', `RewardText`='';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24535', `Locale`='zhCN', `RewardText`='';
 REPLACE INTO `quest_offer_reward_locale` SET `ID`='24536', `Locale`='zhCN', `RewardText`='';

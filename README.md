@@ -1,7 +1,7 @@
 # WowDB_zhCN
 
 ## cjlaaa的优化内容
-1. 适配TrinityCore最新版本(2018.11)
+1. 适配TrinityCore最新版本(2019.4)
 2. 优化部分换行格式问题
 3. 添加main.sql,在mysql控制台直接运行即可导入
 

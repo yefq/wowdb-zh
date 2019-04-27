@@ -1091,7 +1091,7 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='1097', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='1098', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1099', `Locale`='zhCN', `CompletionText`='我跟你说什么来着!要我们哥布尔在这样的比赛里输给那帮废物地精是完全不可能的……你刚才是买谁胜的?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1100', `Locale`='zhCN', `CompletionText`='从你凝重的脸色中，我看出……有什么东西出了问题……';
-REPLACE INTO `quest_request_items_locale` SET `ID`='1101', `Locale`='zhCN', `CompletionText`='只要卡尔加.刺肋在剃刀沼泽召集军队 , `Locale`='zhCN',  这片土地将陷入巨大的危险之中。';
+REPLACE INTO `quest_request_items_locale` SET `ID`='1101', `Locale`='zhCN', `CompletionText`='只要卡尔加.刺肋在剃刀沼泽召集军队，这片土地将陷入巨大的危险之中。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1102', `Locale`='zhCN', `CompletionText`='只有当我得知剃刀沼泽的邪恶野兽被赶出他们那个肮脏的窝时，我才能松一口气，因为那样才能说明我的报复行动已经完成了。$B$B你将野猪人从剃刀沼泽里赶走了吗?你干掉卡尔加了吗?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1103', `Locale`='zhCN', `CompletionText`='你有灵契吗，我的$g兄弟:姐妹;?$B$B我知道另一个人在打败那个堕落的水灵之后有了麻烦―似乎他等得太久，最后因为不耐烦而离开了。我不希望看见这样的事情再次发生，为此我决定继续等在这里，直到确信没有人再需要我的帮助为止。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1104', `Locale`='zhCN', `CompletionText`='喂!你找到毒液了吗??';
@@ -1520,8 +1520,8 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='1785', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='1786', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1787', `Locale`='zhCN', `CompletionText`='亨兹还好吗，$N?你成功了吗?$B$B以你的战斗技巧，再加上光明的力量，我想英雄岗哨不会再受到迪菲亚盗贼的威胁了，不过那是国王和他的顾问应该关心的事情。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1788', `Locale`='zhCN', `CompletionText`='';
-REPLACE INTO `quest_request_items_locale` SET `ID`='1789', `Locale`='zhCN', `CompletionText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值, `Locale`='zhCN', 在今后的日子里，你还会不断遇到挫折。';
-REPLACE INTO `quest_request_items_locale` SET `ID`='1790', `Locale`='zhCN', `CompletionText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值, `Locale`='zhCN', 在今后的日子里，你还会不断遇到挫折。';
+REPLACE INTO `quest_request_items_locale` SET `ID`='1789', `Locale`='zhCN', `CompletionText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值，在今后的日子里，你还会不断遇到挫折。';
+REPLACE INTO `quest_request_items_locale` SET `ID`='1790', `Locale`='zhCN', `CompletionText`='快点，$N，你的成功与否关系着不止一条人命。$B$B如果因为某些原因让你无法帮助杰生和亨兹，就赶快回来找我，我会再给你一个生命符记。$B$B别以为我的帮助仅仅是简单的恩惠，你必须证明自己具备和其它圣骑士一样的价值，在今后的日子里，你还会不断遇到挫折。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1791', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1792', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='1793', `Locale`='zhCN', `CompletionText`='';
@@ -1956,7 +1956,7 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='3369', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='3370', `Locale`='zhCN', `CompletionText`='我能帮你什么忙吗?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='3371', `Locale`='zhCN', `CompletionText`='对我来说这已经太晚了，$r。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='3372', `Locale`='zhCN', `CompletionText`='祭坛是空的。';
-REPLACE INTO `quest_request_items_locale` SET `ID`='3373', `Locale`='zhCN', `CompletionText`='当你接近伊兰尼库斯告诉你的精华之泉的时候, `Locale`='zhCN', 他的声音再次出现在你的脑海中。$B$B“是的，凡人，这个精华之泉将会救赎我留在这颗宝石内的心智中未污染的部分。将宝石放在泉水中，然后让绿龙族的魔法净化我身上的堕落和污染元素。只有这样我才能得到真正的解脱，只有这样绿龙军团才能够获得管理阿塔莱的权利。';
+REPLACE INTO `quest_request_items_locale` SET `ID`='3373', `Locale`='zhCN', `CompletionText`='当你接近伊兰尼库斯告诉你的精华之泉的时候，他的声音再次出现在你的脑海中。$B$B“是的，凡人，这个精华之泉将会救赎我留在这颗宝石内的心智中未污染的部分。将宝石放在泉水中，然后让绿龙族的魔法净化我身上的堕落和污染元素。只有这样我才能得到真正的解脱，只有这样绿龙军团才能够获得管理阿塔莱的权利。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='3374', `Locale`='zhCN', `CompletionText`='我们已经到了，$N，到了另一个十字路口。是该作出个选择的时候了。凡人，你的选择是什么?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='3375', `Locale`='zhCN', `CompletionText`='要制作另外一个瓶子，我需要一瓶法力药水、一块煤和一些蜂蜜饮料。$B$B另外，还需要很多很多的耐心。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='3376', `Locale`='zhCN', `CompletionText`='只要尖牙刺鬃酋长死了，我们就再也不用忍受他的骚扰了。把他的头颅给我拿来作为你已经干掉他的证据，$N。$B$B我们牛头人生存的意义就在于打猎，而最大的乐趣莫过于猎杀那些有可能反咬我们一口的猎物了。如果你成功地完成这项任务，你就会理解我所说的话。';
@@ -2298,7 +2298,7 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='4492', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='4493', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='4494', `Locale`='zhCN', `CompletionText`='';
 REPLACE INTO `quest_request_items_locale` SET `ID`='4495', `Locale`='zhCN', `CompletionText`='啊啊啊……';
-REPLACE INTO `quest_request_items_locale` SET `ID`='4496', `Locale`='zhCN', `CompletionText`='找到一个合适的臭腺可能会有一点难度--腺体不能损坏, `Locale`='zhCN', 但是取得腺体的过程似乎不容易得出这种结果。至于土壤，我认为很容易就能找到。$B$B不管怎样，你拿到我制造诱饵所需要的东西了吗?';
+REPLACE INTO `quest_request_items_locale` SET `ID`='4496', `Locale`='zhCN', `CompletionText`='找到一个合适的臭腺可能会有一点难度--腺体不能损坏，但是取得腺体的过程似乎不容易得出这种结果。至于土壤，我认为很容易就能找到。$B$B不管怎样，你拿到我制造诱饵所需要的东西了吗?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='4501', `Locale`='zhCN', `CompletionText`='实话跟你说吧，我以前不是很担心那些奇怪生物的数量……直到有一天我看到写在一块大石头上的话:$B$B小心翼手龙$B$B这是谁写的呢?我不知道，但是忽视这句话显然是愚蠢的。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='4502', `Locale`='zhCN', `CompletionText`='安戈洛环形山里的火山真的是活火山吗?我相信我可以从火山灰中了解到很多东西，$N。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='4503', `Locale`='zhCN', `CompletionText`='每个伟大的交通工具都需要有个名字……我想我会叫它……双翼飞行器!';
@@ -3134,9 +3134,9 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='7281', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='7282', `Locale`='zhCN', `CompletionText`='我下达这个命令的时候心情非常沉重，士兵。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7301', `Locale`='zhCN', `CompletionText`='有什么要让我知道的事情?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7302', `Locale`='zhCN', `CompletionText`='任务进行得怎么样，士兵?';
-REPLACE INTO `quest_request_items_locale` SET `ID`='7321', `Locale`='zhCN', `CompletionText`='Any luck finding the ingredients?  I\'ll tell you, `Locale`='zhCN',  the alliance maggots are far too numerous in this area now... In my opinion, `Locale`='zhCN',  they have come far too close already...', `Locale`='zhCN', ;
+REPLACE INTO `quest_request_items_locale` SET `ID`='7321', `Locale`='zhCN', `CompletionText`='Any luck finding the ingredients?  I\'ll tell you, the alliance maggots are far too numerous in this area now... In my opinion, they have come far too close already...';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7341', `Locale`='zhCN', `CompletionText`='你好，$r。我是考拉克，来自雷霆崖的赏金猎人。我游历了整个世界，见识过很多奇异的事情。$B$B我穿越了整个南海，并偶然找到了这些奇妙的瑟银之箭。啊，我有无数的箭，但是我的子弹都用光了。呸，没有好的装备，一个牛头人怎么可能横行战场。这些箭现在毫无用处!$B$B我们来进行一个交易:你可以用瑟银弹来交换我的瑟银之箭。怎么样?';
-REPLACE INTO `quest_request_items_locale` SET `ID`='7342', `Locale`='zhCN', `CompletionText`='你能相信吗?!刚从卡拉诺斯运来的这一批弹药都是劣等货!我们现在手里只有这些弓箭!我要用这500, `Locale`='zhCN', 000支瑟银箭来做什么?$B$B我告诉你，孩子。如果你可以给我弄些瑟银弹壳，我就给你瑟银箭作为交换―成交吗?';
+REPLACE INTO `quest_request_items_locale` SET `ID`='7342', `Locale`='zhCN', `CompletionText`='你能相信吗?!刚从卡拉诺斯运来的这一批弹药都是劣等货!我们现在手里只有这些弓箭!我要用这500000支瑟银箭来做什么?$B$B我告诉你，孩子。如果你可以给我弄些瑟银弹壳，我就给你瑟银箭作为交换―成交吗?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7361', `Locale`='zhCN', `CompletionText`='他们想要灭绝我们?他们自己才应该被灭绝。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7362', `Locale`='zhCN', `CompletionText`='我可不管头发是什么地方来的，$r。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='7363', `Locale`='zhCN', `CompletionText`='对，事实确实如此。我的兄弟是人类。这让我感到惭愧……这是我几乎完美的纪录上的一个污点。';
@@ -5147,7 +5147,7 @@ REPLACE INTO `quest_request_items_locale` SET `ID`='9809', `Locale`='zhCN', `Com
 REPLACE INTO `quest_request_items_locale` SET `ID`='9810', `Locale`='zhCN', `CompletionText`='大地之环会尽全力帮忙。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='9811', `Locale`='zhCN', `CompletionText`='你想和我说话，$C?我可不记得你有先预约喔。';
 REPLACE INTO `quest_request_items_locale` SET `ID`='9812', `Locale`='zhCN', `CompletionText`='';
-REPLACE INTO `quest_request_items_locale` SET `ID`='9813', `Locale`='zhCN', `CompletionText`='是吧, `Locale`='zhCN',  $C?';
+REPLACE INTO `quest_request_items_locale` SET `ID`='9813', `Locale`='zhCN', `CompletionText`='是吧，$C?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='9814', `Locale`='zhCN', `CompletionText`='你弄到蘑菇了吗，老兄?';
 REPLACE INTO `quest_request_items_locale` SET `ID`='9815', `Locale`='zhCN', `CompletionText`='不要留下任何受污染的菌体!';
 REPLACE INTO `quest_request_items_locale` SET `ID`='9816', `Locale`='zhCN', `CompletionText`='<巫医托卡斯咧嘴笑了笑。>$B$B失落者喜欢他们的礼物吗?';
